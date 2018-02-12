@@ -175,6 +175,6 @@ function getStats(text) {
         averageWordLength: averageWordLength, 
         palindromes: palindromes,
         longestWords: longestWordz, 
-        //mostFrequentWords: mostFrequentWords
+        mostFrequentWords: "Not implemented"//mostFrequentWords
     };
 }
